@@ -1,0 +1,132 @@
+{
+  "families": {
+    "title": "Family Photography — Oakville, Burlington, Milton & Halton",
+    "description": "Unscripted, golden-hour family photography in Oakville, Burlington, Milton & Halton. 2 hours on location, 40 hand-graded frames. From $650 CAD + HST.",
+    "hero": { "tag": "Families", "title": "The Way Your Family Actually Laughs", "lede": "Two unhurried hours at Kelso, Gairloch, or your own backyard — and the frames your grandkids will frame.", "image": "/images/corridor/corridor-2.jpg" },
+    "sections": [
+      { "type": "story", "label": "The Approach", "title": "No Stiff Poses. Ever.", "paras": [
+        "Sessions move like a picnic: chase-the-dog, tickle-the-toddler, walk-toward-the-light. I direct only when it helps — the rest of the time I am quietly collecting the real stuff.",
+        "Two hours on location, 40 hand-graded frames, and a 48-hour sneak peek. Extra images, museum prints, and layflat albums available from your private gallery."
+      ]},
+      { "type": "grid", "label": "Good To Know", "title": "The Family & Maternity — $650 CAD", "items": [
+        { "title": "2 Hours On Location", "body": "Kelso, Gairloch Gardens, your home, or a location that means something to your crew." },
+        { "title": "40 Hand-Graded Frames", "body": "The full story arc — wide portraits, in-between chaos, and the close quiet ones." },
+        { "title": "Style Guide Included", "body": "A personalized wardrobe guide in soft neutrals and classic silhouettes once your date is set." },
+        { "title": "Weather Insurance", "body": "Golden hour is unpredictable in Halton — rescheduling is always warm and free." },
+        { "title": "Grandparent-Proof Prints", "body": "Museum cotton-rag prints and albums designed to be handed down, not deleted." },
+        { "title": "Every Age Welcome", "body": "Newborns, teens who'd rather be elsewhere, grandparents, dogs — all welcome, all anticipated." }
+      ]}
+    ],
+    "cta": { "title": "Book your family's golden hour.", "lede": "Fall dates go first — the escarpment maple colour is worth it.", "primary": ["/booking", "Reserve Your Date"], "secondary": ["/portfolio", "See Family Films"] }
+  },
+  "maternity": {
+    "title": "Maternity Photography — Oakville, Burlington, Milton & Halton",
+    "description": "Reverent, editorial maternity photography in Halton. Golden-hour sessions at home or on the escarpment. From $650 CAD + HST.",
+    "hero": { "tag": "Maternity", "title": "Reverie, In Gold", "lede": "The quiet strength of waiting — photographed in window light, field light, and the last warm hour of the day.", "image": "/images/corridor/corridor-3.jpg" },
+    "sections": [
+      { "type": "story", "label": "The Approach", "title": "Slow, Warm, and Wholly Yours", "paras": [
+        "Maternity sessions are booked for weeks 28–35, at home in your best window light or out on the escarpment at golden hour. Partners and siblings belong in the frame — this is a family portrait too.",
+        "Wardrobe styling is included: flowing neutrals, knit textures, and a curated client closet. Every gallery is hand-graded warm and archival, ready for the nursery wall."
+      ]},
+      { "type": "grid", "label": "What's Included", "title": "The Family & Maternity — $650 CAD", "items": [
+        { "title": "Timing Consultation", "body": "We book your exact golden window between weeks 28–35, when the glow is real." },
+        { "title": "Home or Escarpment", "body": "Your nursery light or Kelso's limestone at sunset — both are entirely yours." },
+        { "title": "Wardrobe Styling", "body": "Personal style guide plus access to the atelier's curated client closet of gowns and knits." },
+        { "title": "40 Hand-Graded Frames", "body": "Intimate detail, partner hands, silhouettes, and the full-family portrait." },
+        { "title": "Newborn Bridge", "body": "Book a newborn follow-up within 6 months and receive priority calendar access." },
+        { "title": "Nursery-Ready Prints", "body": "Soft-gloss museum prints sized for above-the-crib, shipped ready to frame." }
+      ]}
+    ],
+    "cta": { "title": "Reserve your window.", "lede": "These dates are set by the calendar of you — book early in your second trimester.", "primary": ["/booking", "Reserve Your Date"], "secondary": ["/families", "Family Sessions"] }
+  },
+  "events": {
+    "title": "Event Photography — Oakville, Burlington, Milton, Toronto & the GTA",
+    "description": "Celebrations, galas, brand launches and mitzvahs photographed cinematically across Halton and the GTA. 4 hours, 200+ frames. From $1,200 CAD + HST.",
+    "hero": { "tag": "Celebrations", "title": "Every Toast, Caught Mid-Air", "lede": "Documentary celebration coverage that never interrupts the party — 4 hours, 200+ frames, cinematic colour.", "image": "/images/corridor/corridor-4.jpg" },
+    "sections": [
+      { "type": "story", "label": "The Approach", "title": "A Guest With a Camera", "paras": [
+        "Galas, baby showers, bar and bat mitzvahs, brand launches, backyard anniversaries — I photograph them the same way: documentary-first, never interrupting a moment to manufacture one.",
+        "Four hours of coverage with 200+ hand-graded frames, same-week delivery for event teams, and venue-lighting expertise from the Distillery District to Paletta Mansion."
+      ]},
+      { "type": "grid", "label": "What's Included", "title": "The Event Chapter — $1,200 CAD", "items": [
+        { "title": "4 Hours of Coverage", "body": "Arrivals to last dance — or the hours that matter most for your event." },
+        { "title": "200+ Frames", "body": "Hand-graded, print-ready, and organized for easy sharing with hosts and guests." },
+        { "title": "Same-Week Delivery", "body": "Event teams and PR timelines get priority turnaround on request." },
+        { "title": "Venue Fluency", "body": "Toronto's Distillery District, Paletta Mansion, LE venues, backyard tents — light plans included." },
+        { "title": "Brand Add-Ons", "body": "Commercial usage licensing and reel coverage available for launches and openings." },
+        { "title": "Guest Gallery Link", "body": "A shareable private gallery so every guest relives the night." }
+      ]}
+    ],
+    "cta": { "title": "Put your celebration on film.", "lede": "Share your date, venue, and vibe — you'll have a plan within the hour.", "primary": ["/contact", "Plan Your Event"], "secondary": ["/portfolio", "See Event Films"] }
+  },
+  "packages": {
+    "title": "Photography Packages & Investment — Oakville & Halton",
+    "description": "Transparent investment: Portrait $450, Family & Maternity $650, Event $1,200, Wedding $3,800, Signature $6,500 CAD + HST. Add-ons: reel, album, extra hour.",
+    "hero": { "tag": "Investment", "title": "Collections & Investment", "lede": "Five collections, one standard: cinematic natural light, hand-graded frames, heirloom delivery.", "image": "/images/corridor/corridor-6.jpg" },
+    "sections": [
+      { "type": "grid", "label": "The Collections", "title": "From $450 to $6,500 CAD", "items": [
+        { "title": "The Portrait Atelier — $450", "body": "90 minutes, 1 location, 25 hand-graded frames. Headshots, personal branding, and just-because editorial." },
+        { "title": "The Family & Maternity — $650", "body": "2 hours at home or on location, 40 frames, 48h sneak peek, wardrobe styling guide." },
+        { "title": "The Event Chapter — $1,200", "body": "4 hours of celebration coverage, 200+ frames, same-week delivery on request." },
+        { "title": "The Wedding Heirloom — $3,800", "body": "8 hours, 400+ frames, planning consultation, 48h sneak peek. The one they'll rewatch at anniversaries." },
+        { "title": "The Signature Commission — $6,500", "body": "Full-day coverage, second master shooter, 800+ frames, archival fine-art album, and 4K cinematic reel." },
+        { "title": "Every Collection Includes", "body": "Private gallery delivery, print-release, 13% Ontario HST remittance handled transparently, and my personal attention end to end." }
+      ]},
+      { "type": "story", "label": "Bespoke Enhancements", "title": "Add-Ons & Heirlooms", "paras": [
+        "4K Cinematic Highlight Reel +$400 · Fine-Art Layflat Album from +$600 · Rush 5-Day Delivery +$200 · Extra Coverage Hour +$250. Destination commissions across Niagara, Muskoka, and beyond are quoted with travel built in — no surprises.",
+        "Every date is locked with a reservation retainer — 100% credited toward your collection, remainder due 48 hours before your session. Use the live customizer on the home page to price your exact commission in seconds."
+      ]}
+    ],
+    "cta": { "title": "Design your commission.", "lede": "Build it live, lock it with a retainer, and start counting down.", "primary": ["/#customizer", "Open The Customizer"], "secondary": ["/contact", "Ask A Question"] }
+  },
+  "portfolio": {
+    "title": "Portfolio — Cinematic Photography Across Halton & the GTA",
+    "description": "Selected film frames: weddings, families, maternity, and celebrations across Oakville, Burlington, Milton, Halton & Toronto.",
+    "hero": { "tag": "Portfolio", "title": "Selected Frames", "lede": "A curated corridor of the atelier's favourite stills — each one a scene from somebody's favourite film.", "image": "/images/corridor/corridor-6.jpg" },
+    "sections": [
+      { "type": "grid", "label": "The Galleries", "title": "Browse By Chapter", "items": [
+        { "title": "Weddings", "body": "Vows at Gairloch, first looks at Paletta, golden confetti exits — the full wedding portfolio." },
+        { "title": "Families", "body": "Backyard chaos, escarpment picnics, grandparents holding the newest generation." },
+        { "title": "Maternity", "body": "Nursery-light portraits and escarpment reverie in the last warm weeks." },
+        { "title": "Celebrations", "body": "Toasts mid-air, dance floors, candlelit milestones across the GTA." },
+        { "title": "The Towns", "body": "Location studies from Oakville, Burlington, Milton, Halton Hills, and Toronto." },
+        { "title": "Behind The Frames", "body": "Every image hand-graded in the atelier palette — see the philosophy on the About page." }
+      ]}
+    ],
+    "cta": { "title": "Your story belongs in this corridor.", "lede": "Book a session and the next frame could be yours.", "primary": ["/booking", "Reserve Your Date"], "secondary": ["/contact", "Ask About A Session"] }
+  },
+  "reviews": {
+    "title": "Reviews — 5.0 Stars Across 47 Commissions",
+    "description": "Read what Halton families and couples say about Hafsa Noreen Photography — 5.0 stars across 47 commissions.",
+    "hero": { "tag": "Kind Words", "title": "5.0 Across 47 Commissions", "lede": "We measure our work in returned clients, framed prints, and notes like these.", "image": "/images/corridor/corridor-1.jpg" },
+    "sections": [
+      { "type": "grid", "label": "Testimonials", "title": "From The Films", "items": [
+        { "title": "Andrea & Marcus · Oakville", "body": "Hafsa didn't just capture our wedding — she captured the whispers, the tears, the joy we didn't know anyone saw. Every frame feels like a film still." },
+        { "title": "Priya & Daniel · Milton", "body": "Our maternity gallery made me cry in the best way. She found light in our living room I didn't know existed." },
+        { "title": "The Okafor Family · Burlington", "body": "The family session felt like a golden-hour picnic that happened to be photographed perfectly. The kids still ask when we go back." },
+        { "title": "Sarah & James · Halton Hills", "body": "The sneak peek arrived in 48 hours and our families texted non-stop for a week. The album is our most-touched possession." },
+        { "title": "Lena · Toronto", "body": "Professional, invisible when it mattered, and warm the rest of the time. The Distillery District portraits look like movie posters." },
+        { "title": "The Chen Family · Oakville", "body": "Third session with Hafsa in three years. She remembers our kids' names, their shyness, their jokes. That's why we keep coming back." }
+      ]}
+    ],
+    "cta": { "title": "Add your chapter to the reviews.", "lede": "The first step is a conversation.", "primary": ["/contact", "Say Hello"], "secondary": ["/booking", "Reserve Your Date"] }
+  },
+  "faq": {
+    "title": "FAQ — Booking, Sessions & Investment",
+    "description": "Answers on booking timelines, what to wear, delivery, travel, retainers, and working with Haffu.",
+    "hero": { "tag": "Questions", "title": "Everything, Answered", "lede": "If your question isn't here, Haffu answers within 60 seconds — any hour.", "image": "/images/corridor/corridor-3.jpg" },
+    "sections": [
+      { "type": "grid", "label": "The Essentials", "title": "Before You Book", "items": [
+        { "title": "How far ahead should I book?", "body": "Most clients book 3–6 months ahead; weddings 6–12 months. Fall weekends go first — but ask, last-minute light happens." },
+        { "title": "What should we wear?", "body": "Every confirmed client receives a personalized style guide: soft neutrals, classic silhouettes, textures that photograph like film." },
+        { "title": "How do retainers work?", "body": "A reservation retainer (from $500) locks your date and is 100% credited to your collection. The remainder is due 48h before your session." } 
+      ]},
+      { "type": "grid", "label": "The Details", "title": "After You Book", "items": [
+        { "title": "When do we see photos?", "body": "Sneak peek within 48 hours; the complete hand-graded gallery in 3–4 weeks — rush delivery available." },
+        { "title": "Do you travel?", "body": "Niagara wine country, Muskoka cottages, and GTA West destinations — boutique travel packages quoted up front." },
+        { "title": "Who is Haffu?", "body": "Hafsa's Creative Intelligence: it answers inquiries instantly, books discovery calls, and hands Hafsa every thread that needs her eye." }
+      ]}
+    ],
+    "cta": { "title": "Still curious?", "lede": "Ask anything — Haffu answers instantly, Hafsa personally.", "primary": ["/contact", "Ask Your Question"], "secondary": ["/booking", "Reserve Your Date"] }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "oakville-photographer": {
+    "title": "Oakville Photographer — Cinematic Sessions in Gairloch, Kerr Village & Lakeshore",
+    "description": "Oakville's cinematic natural-light photographer: Gairloch Gardens, Kerr Village, Lakeshore Woods & Bronte sessions. Family, maternity, wedding & portrait commissions from $450.",
+    "hero": { "tag": "Oakville, ON", "title": "Oakville's Cinematic Photographer", "lede": "From Gairloch's lakefront gardens to Bronte Harbour's golden promenade — your story, shot in the town's best light.", "image": "/images/corridor/corridor-1.jpg" },
+    "sections": [
+      { "type": "story", "label": "Home Turf", "title": "The Studio Is Here — So Is the Light Map", "paras": [
+        "The atelier sits at 3404 Millicent Avenue, minutes from the Oakville locations I know second-by-second: Gairloch Gardens' lake-facing lawn glows two hours before sunset; Kerr Village back alleys give soft editorial texture; Bronte Harbour's pier catches the last brass light of the day.",
+        "Being local means sessions are scheduled around Oakville's exact golden windows — and if the light goes moody, we simply slide to the next window at no charge."
+      ]},
+      { "type": "grid", "label": "Oakville Locations", "title": "Where We Shoot", "items": [
+        { "title": "Gairloch Gardens", "body": "Lake Ontario backdrop, Japanese garden textures, and estate lawns — Oakville's signature wedding and family location." },
+        { "title": "Bronte Harbour", "body": "Working marina, boardwalk golden hour, and the lighthouse silhouette for adventurous couples." },
+        { "title": "Lakeshore Woods", "body": "Tall old-growth shade and meadow light — perfect for maternity and family chapters." },
+        { "title": "Kerr Village & Downtown", "body": "Brick, neon, and café-light editorial portraits for brands and personal branding." },
+        { "title": "Coronation Park", "body": "Oak canopy and picnic-table realness — ideal for multigenerational family sessions." },
+        { "title": "Your Home", "body": "In-home lifestyle sessions in Oakville's bright family rooms and nurseries." }
+      ]}
+    ],
+    "cta": { "title": "Book your Oakville session.", "lede": "Local studio, local light maps, local advantage.", "primary": ["/booking", "Reserve Your Date"], "secondary": ["/portfolio", "Oakville Frames"] }
+  },
+  "burlington-photographer": {
+    "title": "Burlington Photographer — LaSalle Waterfront, Spencer Smith & Downtown",
+    "description": "Cinematic photography in Burlington: Spencer Smith Park, LaSalle waterfront, downtown Whaletail alleys & the Escarpment. From $450 CAD.",
+    "hero": { "tag": "Burlington, ON", "title": "Burlington, In Golden Frame", "lede": "Pier light, lakeside breezes, and escarpment backroads — Burlington photographs beautifully and we know exactly when.", "image": "/images/corridor/corridor-2.jpg" },
+    "sections": [
+      { "type": "story", "label": "The Burlington Light", "title": "Waterfront Gold and Escarpment Green", "paras": [
+        "Burlington gives the atelier two signature canvases: the Spencer Smith and LaSalle waterfront with its wide open sunset sky, and the Niagara Escarpment corridors minutes north where fields turn amber in late September.",
+        "Twenty minutes from the Oakville studio, sessions here get the same hand-graded heirloom treatment — family, maternity, weddings, and downtown editorial portraits included."
+      ]},
+      { "type": "grid", "label": "Burlington Locations", "title": "Where We Shoot", "items": [
+        { "title": "Spencer Smith Park", "body": "Fountain gardens, pier views, and festival-light evenings for celebration sessions." },
+        { "title": "LaSalle Waterfront", "body": "Long meadows and marina boards — a family favourite with room for kids to run." },
+        { "title": "Downtown Burlington", "body": "Brant Street's patios and storefront glow for personal-branding portraits." },
+        { "title": "Hidden Valley & Lowville", "body": "Escarpment fields and heritage churches for cinematic engagement sessions." },
+        { "title": "Beachway Park", "body": "Sailboats, reeds, and sunset water — maternity sessions at their softest." },
+        { "title": "Mount Nemo", "body": "Cliffside cedar lookouts for adventurous couples and elopements." }
+      ]}
+    ],
+    "cta": { "title": "Book your Burlington session.", "lede": "Waterfront weekends fill by late spring.", "primary": ["/booking", "Reserve Your Date"], "secondary": ["/portfolio", "Burlington Frames"] }
+  },
+  "halton-photographer": {
+    "title": "Halton Region Photographer — Oakville, Burlington, Milton & Halton Hills",
+    "description": "One atelier for all of Halton: Oakville, Burlington, Milton, Georgetown & Acton. Cinematic family, maternity, wedding & event photography.",
+    "hero": { "tag": "Halton Region", "title": "One Atelier, All of Halton", "lede": "Four communities, escarpment to lake — every commission receives the same cinematic standard.", "image": "/images/corridor/corridor-4.jpg" },
+    "sections": [
+      { "type": "story", "label": "The Region", "title": "From Lake Ontario to the Escarpment Ridge", "paras": [
+        "Halton is the atelier's home range: Oakville's lakefront estates, Burlington's waterfront, Milton's conservation lands, and Halton Hills' heritage villages. Fifteen years of shooting here built a private light-map most photographers never see.",
+        "One studio covers the whole region — with Halton's simplest travel policy: no travel fees inside the region, ever."
+      ]},
+      { "type": "grid", "label": "By Community", "title": "Where You'll Find Us", "items": [
+        { "title": "Oakville", "body": "Gairloch Gardens, Bronte Harbour, Lakeshore Woods, Coronation Park — the studio's home turf." },
+        { "title": "Burlington", "body": "Spencer Smith, LaSalle waterfront, Mount Nemo, Lowville village." },
+        { "title": "Milton", "body": "Kelso, Rattlesnake Point, Hilton Falls, and the agricultural-gold backroads." },
+        { "title": "Halton Hills", "body": "Georgetown's heritage downtown, Dominion Seed House fields, Acton badlands edge." },
+        { "title": "Regional Perk", "body": "Zero travel fees anywhere in Halton — your session is quoted clean." },
+        { "title": "All Session Types", "body": "Weddings, families, maternity, events, portraits, and brand work across the region." }
+      ]}
+    ],
+    "cta": { "title": "Halton's atelier is yours.", "lede": "Tell us your town and your story.", "primary": ["/booking", "Reserve Your Date"], "secondary": ["/service-areas", "All Service Areas"] }
+  },
+  "milton-photographer": {
+    "title": "Milton Photographer — Kelso, Rattlesnake Point & Escarpment Sessions",
+    "description": "Milton's cinematic photographer: golden-hour sessions at Kelso Conservation Area, Rattlesnake Point & Hilton Falls. Family, maternity & wedding commissions.",
+    "hero": { "tag": "Milton, ON", "title": "Milton, Where the Escarpment Glows", "lede": "Limestone cliffs, thousand-year cedars, and reservoir reflections — Milton is the atelier's most requested location.", "image": "/images/corridor/corridor-3.jpg" },
+    "sections": [
+      { "type": "story", "label": "The Escarpment", "title": "Kelso & Rattlesnake, By Heart", "paras": [
+        "Kelso's reservoir mirrors the first warm light of evening; Rattlesnake Point's cliffside cedars frame vows and maternity silhouettes alike. We hold permits knowledge for both conservation areas and schedule sessions to their exact golden windows.",
+        "Autumn in Milton is the atelier's busiest season — the maple corridors around the escarpment turn brass-and-rose for roughly three weeks. Book early."
+      ]},
+      { "type": "grid", "label": "Milton Locations", "title": "Where We Shoot", "items": [
+        { "title": "Kelso Conservation Area", "body": "Cliff-and-reservoir panoramas; Hafsa's premier warm-autumn golden-hour canvas." },
+        { "title": "Rattlesnake Point", "body": "Ancient cedars and dramatic lookouts for editorial bridal and adventurous couples." },
+        { "title": "Hilton Falls", "body": "Waterfall mist and pine corridors — a quieter, cinematic alternative." },
+        { "title": "Country Heritage Park", "body": "Vintage barns and tractor lanes for rustic family chapters." },
+        { "title": "Milton Fairgrounds", "body": "Open-field light for large family gatherings and events." },
+        { "title": "Permits Handled", "body": "Conservation-area photography permits arranged for you — zero admin on your side." }
+      ]}
+    ],
+    "cta": { "title": "Book your Milton session.", "lede": "Autumn windows sell out first — three weeks of brass light a year.", "primary": ["/booking", "Reserve Your Date"], "secondary": ["/portfolio", "Milton Frames"] }
+  },
+  "toronto-photographer": {
+    "title": "Toronto Photographer — Distillery District, Downtown & Lakeshore Editorial",
+    "description": "Editorial and wedding photography in Toronto: Distillery District, King West, Harbourfront & Trinity Bellwoods. Brand, engagement & celebration commissions.",
+    "hero": { "tag": "Toronto, ON", "title": "Toronto, In Editorial Light", "lede": "Victorian brick, King West neon, harbour dusk — the city shot like a film location scout's dream.", "image": "/images/corridor/corridor-6.jpg" },
+    "sections": [
+      { "type": "story", "label": "The City", "title": "Urban Cinema, Block by Block", "paras": [
+        "Toronto commissions are editorial at heart: engagement portraits in the Distillery's cobblestone lanes, brand campaigns in King West storefront light, celebrations on Harbourfront terraces.",
+        "The atelier travels in with a location plan — permits, parking, light windows, and a rain plan — so city sessions run like productions."
+      ]},
+      { "type": "grid", "label": "Toronto Locations", "title": "Where We Shoot", "items": [
+        { "title": "Distillery District", "body": "19th-century Victorian brick and cobblestone lanes for high-fashion urban romance." },
+        { "title": "King West & Queen Street", "body": "Storefront glow and street style energy for branding sessions." },
+        { "title": "Harbourfront", "body": "Lake skyline terraces and boardwalk sunsets for couples and events." },
+        { "title": "Trinity Bellwoods", "body": "Green-heart casual family and engagement sessions with the CN Tower edge." },
+        { "title": "Leslieville & Riverside", "body": "Mural walls and heritage storefronts — texture-rich editorial backdrops." },
+        { "title": "Permits & Access", "body": "City and private-location permits arranged in advance — productions, not improvisations." }
+      ]}
+    ],
+    "cta": { "title": "Book your Toronto commission.", "lede": "Editorial, engagement, and brand sessions across the city.", "primary": ["/contact", "Plan Your Session"], "secondary": ["/portfolio", "Toronto Frames"] }
+  },
+  "service-areas": {
+    "title": "Service Areas — Halton, Toronto & Destination Photography",
+    "description": "Full service map: Oakville, Burlington, Milton, Halton Hills, Toronto, Niagara & Muskoka. No travel fees inside Halton.",
+    "hero": { "tag": "Where We Work", "title": "The Service Map", "lede": "Home range Halton, editorial range Toronto, destination range everywhere golden.", "image": "/images/hafsa-portrait.jpg" },
+    "sections": [
+      { "type": "grid", "label": "Coverage", "title": "Three Rings of Service", "items": [
+        { "title": "Home Range — Halton", "body": "Oakville, Burlington, Milton, Halton Hills (Georgetown & Acton): zero travel fees, deepest location knowledge." },
+        { "title": "Editorial Range — GTA & Toronto", "body": "Downtown Toronto, Etobicoke, Mississauga, Hamilton, Niagara-on-the-Lake: modest travel built into the quote." },
+        { "title": "Destination Range", "body": "Muskoka cottages, Niagara wine country, Blue Mountain, and beyond — boutique travel packages quoted transparently." },
+        { "title": "Studio Visits", "body": "3404 Millicent Avenue, Oakville — consultations, album viewings, and print pickup by appointment." },
+        { "title": "Virtual Planning", "body": "Every commission includes a video planning consultation — light maps, timelines, and wardrobe, from anywhere." },
+        { "title": "Remote-First Products", "body": "The entire atelier shop — presets, AI portraits, restoration, storybooks — ships digitally worldwide." }
+      ]}
+    ],
+    "cta": { "title": "Not on the map?",
+      "lede": "If the light is beautiful there, we will come. Ask.",
+      "primary": ["/contact", "Ask About Your Location"], "secondary": ["/booking", "Reserve Your Date"] }
+  },
+  "client-portal": {
+    "title": "Client Portal — Your Gallery, Retainer & Session Details",
+    "description": "The Hafsa Noreen client portal: session details, retainer receipts, gallery links, and heirloom orders in one place.",
+    "hero": { "tag": "Client Sanctuary", "title": "Your Private Portal", "lede": "Everything about your commission — timeline, retainer, gallery, heirlooms — gathered in one calm place.", "image": "/images/corridor/corridor-2.jpg" },
+    "sections": [
+      { "type": "grid", "label": "Inside The Portal", "title": "What Lives Here", "items": [
+        { "title": "Session Timeline", "body": "Countdown to your date, golden-hour call times, and weather-day policy in plain view." },
+        { "title": "Retainer & Receipts", "body": "Your reservation retainer, remaining balance, and Stripe receipts — always current." },
+        { "title": "Gallery Access", "body": "48-hour sneak peek and the full hand-graded gallery, private and passcode-protected." },
+        { "title": "Heirloom Orders", "body": "Albums, museum prints, and extra-image packs ordered directly from your gallery." },
+        { "title": "Contracts & Forms", "body": "E-sign your commission agreement and questionnaires without printing anything." },
+        { "title": "Haffu Assistance", "body": "Ask Haffu anything about your booking — timelines, reschedules, print sizing — anytime." }
+      ]}
+    ],
+    "cta": { "title": "Clients: check your email link.", "lede": "Portal links are sent with your booking confirmation. Lost it? Ask Haffu.", "primary": ["/contact", "Request Portal Link"], "secondary": ["/faq", "Read The FAQ"] }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "description": "How Hafsa Noreen Photography collects, uses, and protects your personal information.",
+    "hero": { "tag": "Legal", "title": "Privacy Policy", "lede": "Plain-language privacy for clients, shoppers, and visitors.", "image": null },
+    "sections": [
+      { "type": "story", "label": "Last Updated", "title": "January 2026", "paras": [
+        "We collect only what we need to serve you: contact details you provide in forms, commission and purchase records, and standard analytics about how the site is used. Payment card data is processed exclusively by Stripe and never touches our servers.",
+        "Your photographs are private by default: galleries are passcode-protected links, images are never sold, and model or brand usage only ever happens with written permission. Email addresses are used for delivery and studio correspondence only — never sold, never bulk-spammed, unsubscribe anytime.",
+        "You may request a copy, correction, or deletion of your personal data at any time by emailing privacy@hafsanoreen.com. We respond within 30 days, in line with PIPEDA and Ontario privacy practice."
+      ]}
+    ],
+    "cta": { "title": "Questions about your data?", "lede": "privacy@hafsanoreen.com — a human answers.", "primary": ["/contact", "Contact The Studio"], "secondary": ["/terms", "Read Terms"] }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "description": "Terms for commissions, digital products, licensing, and use of the Hafsa Noreen Photography website.",
+    "hero": { "tag": "Legal", "title": "Terms of Service", "lede": "The straightforward fine print.", "image": null },
+    "sections": [
+      { "type": "story", "label": "The Essentials", "title": "Commissions & Retainers", "paras": [
+        "Session dates are reserved by retainer, credited in full to your collection. Remaining balances are due 48 hours before the session. Rescheduling for weather or illness is always free; cancellations forfeit the retainer, which covers reserved calendar time and preparation.",
+        "All photographs remain the copyright of Hafsa Noreen Photography. Clients receive a personal-use print release with every gallery; commercial and brand usage is licensed separately in writing."
+      ]},
+      { "type": "story", "label": "Digital Products", "title": "Shop Licensing", "paras": [
+        "Presets, LUTs, overlays, prompts, and templates are licensed per single user for personal and client work; resale, redistribution, or sharing of files is prohibited. Digital deliveries are non-refundable once license keys are issued — but if a file fails, we re-issue it, forever.",
+        "AI experiences (portrait sittings, restoration, storybooks) are services with clear per-order scope; delivery timelines are stated at purchase. HAFFU-in-a-Box subscriptions bill monthly and may be cancelled anytime before the next cycle."
+      ]}
+    ],
+    "cta": { "title": "Need clarity?", "lede": "We would rather explain than assume.", "primary": ["/contact", "Ask The Studio"], "secondary": ["/privacy", "Read Privacy"] }
+  }
+}

@@ -1,0 +1,177 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 1022 >>
+stream
+BT 1 0 0 1 72 592.00 Tm /F2 30 Tf (HAFFU ATELIER) Tj ET
+BT 1 0 0 1 72 540.50 Tm /F2 16 Tf (HAFSA NOREEN PHOTOGRAPHY) Tj ET
+BT 1 0 0 1 72 507.30 Tm /F1 11.5 Tf (The Complete Digital Blueprint - Version 4 \(Haffu Edition\)) Tj ET
+BT 1 0 0 1 72 466.62 Tm /F1 10.5 Tf (Studio: 3404 Millicent Avenue, Oakville, ON L6H 0Z3 | +1-647-909-3135) Tj ET
+BT 1 0 0 1 72 449.40 Tm /F1 10.5 Tf (Territory: Milton, Burlington, Oakville, Halton, GTA West, Niagara, Muskoka) Tj ET
+BT 1 0 0 1 72 412.17 Tm /F1 10.5 Tf (Tagline: Capturing the laughter, tenderness, and fleeting beauty of life like scenes from) Tj ET
+BT 1 0 0 1 72 396.95 Tm /F1 10.5 Tf (your favourite film.) Tj ET
+BT 1 0 0 1 72 379.72 Tm /F1 10.5 Tf (Philosophy: Art is not what you see, but what you make others see. - Edgar Degas) Tj ET
+BT 1 0 0 1 72 352.50 Tm /F1 10.5 Tf (Palette: Ivory #F7F3EE, Charcoal #2B2724, Brass #A98052, Sage #9CAF9A, Dusty Rose #D8B4B4) Tj ET
+BT 1 0 0 1 72 335.27 Tm /F1 10.5 Tf (Typography: Cormorant Garamond \(headings\), Lato \(body\)) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 2503 >>
+stream
+BT 1 0 0 1 72 720.00 Tm /F2 20 Tf (1. HAFFU - The AI Studio Manager) Tj ET
+BT 1 0 0 1 72 685.00 Tm /F1 10.5 Tf (HAFFU is Hafsa's personal AI assistant. She greets visitors, answers questions, checks) Tj ET
+BT 1 0 0 1 72 669.77 Tm /F1 10.5 Tf (availability, books sessions, sends contracts, collects retainers, and notifies Hafsa) Tj ET
+BT 1 0 0 1 72 654.55 Tm /F1 10.5 Tf (only when a booking is confirmed. The underlying model name never appears in frontend) Tj ET
+BT 1 0 0 1 72 639.32 Tm /F1 10.5 Tf (code - all user-facing text is sanitized to Haffu.) Tj ET
+BT 1 0 0 1 72 622.10 Tm /F2 13.5 Tf (1.1 Operational Modes \(Mode Manager\)) Tj ET
+BT 1 0 0 1 86 598.52 Tm /F1 10.5 Tf (- Atelier Executive - founder-led flagship posture; Haffu triages and protects) Tj ET
+BT 1 0 0 1 86 583.30 Tm /F1 10.5 Tf (creative hours.) Tj ET
+BT 1 0 0 1 86 567.07 Tm /F1 10.5 Tf (- Client Sanctuary - white-glove care for booked clients; galleries, deliveries,) Tj ET
+BT 1 0 0 1 86 551.85 Tm /F1 10.5 Tf (rebooks.) Tj ET
+BT 1 0 0 1 86 535.62 Tm /F1 10.5 Tf (- Vendor Portal - venue and planner collaboration with twice-daily batch dispatch.) Tj ET
+BT 1 0 0 1 86 519.40 Tm /F1 10.5 Tf (- Archival Lab - deep-work protection for culling, retouching and album assembly.) Tj ET
+BT 1 0 0 1 86 503.17 Tm /F1 10.5 Tf (- Emergency Maintenance - recovery posture; auto-booking runs, urgent flags batch) Tj ET
+BT 1 0 0 1 86 487.95 Tm /F1 10.5 Tf (daily at 19:00 ET.) Tj ET
+BT 1 0 0 1 72 471.72 Tm /F1 10.5 Tf (A guarded state machine governs transitions: forbidden edges are rejected, minimum dwell) Tj ET
+BT 1 0 0 1 72 456.50 Tm /F1 10.5 Tf (windows apply, leaving Emergency Maintenance requires founder approval, and every) Tj ET
+BT 1 0 0 1 72 441.27 Tm /F1 10.5 Tf (transition lands in a ten-typed audit ledger.) Tj ET
+BT 1 0 0 1 72 424.05 Tm /F2 13.5 Tf (1.2 Client-Facing) Tj ET
+BT 1 0 0 1 86 400.47 Tm /F1 10.5 Tf (- Greets in under 3 seconds with session-type quick replies.) Tj ET
+BT 1 0 0 1 86 384.25 Tm /F1 10.5 Tf (- Personalized gallery recommendations and pricing, timeline and location FAQs.) Tj ET
+BT 1 0 0 1 86 368.02 Tm /F1 10.5 Tf (- Books discovery calls, then contract, retainer, confirmation.) Tj ET
+BT 1 0 0 1 72 351.80 Tm /F2 13.5 Tf (1.3 Founder-Facing) Tj ET
+BT 1 0 0 1 86 328.22 Tm /F1 10.5 Tf (- Lead triage with budget scoring; pricing advisor with 80%-sold alerts.) Tj ET
+BT 1 0 0 1 86 312.00 Tm /F1 10.5 Tf (- Drafts vendor emails and blog captions; tracks invoices, retainers, HST summaries.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 1335 >>
+stream
+BT 1 0 0 1 72 720.00 Tm /F2 20 Tf (2. Website Architecture \(21 Pages\)) Tj ET
+BT 1 0 0 1 72 685.00 Tm /F1 10.5 Tf (Static HTML/CSS/JS with a Three.js WebGL logo hero. Fully responsive from 360 px mobile) Tj ET
+BT 1 0 0 1 72 669.77 Tm /F1 10.5 Tf (through 768 px tablet to 1600 px+ desktop, with a hamburger drawer, sticky CTAs, and) Tj ET
+BT 1 0 0 1 72 654.55 Tm /F1 10.5 Tf (fluid clamp\(\) typography. Deployable to Vercel and Cloud Run.) Tj ET
+BT 1 0 0 1 72 637.32 Tm /F2 13.5 Tf (2.1 Public Endpoints) Tj ET
+BT 1 0 0 1 72 613.75 Tm /F1 10.5 Tf (/ \(home\), /about, /weddings, /families, /maternity, /events, /booking, /portfolio,) Tj ET
+BT 1 0 0 1 72 598.52 Tm /F1 10.5 Tf (/packages, /reviews, /faq, /contact, /story, /service-areas, /oakville-photographer,) Tj ET
+BT 1 0 0 1 72 583.30 Tm /F1 10.5 Tf (/burlington-photographer, /halton-photographer, /client-portal, /privacy, /terms, /404,) Tj ET
+BT 1 0 0 1 72 568.07 Tm /F1 10.5 Tf (/sitemap.xml, /robots.txt.) Tj ET
+BT 1 0 0 1 72 550.85 Tm /F2 13.5 Tf (2.2 SEO) Tj ET
+BT 1 0 0 1 86 527.27 Tm /F1 10.5 Tf (- JSON-LD: LocalBusiness, FAQPage, AggregateRating on every landing page.) Tj ET
+BT 1 0 0 1 86 511.05 Tm /F1 10.5 Tf (- Four town landing pages of 400+ words; OG and Twitter cards; canonical URLs;) Tj ET
+BT 1 0 0 1 86 495.82 Tm /F1 10.5 Tf (sitemap.xml; robots.txt.) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 1320 >>
+stream
+BT 1 0 0 1 72 720.00 Tm /F2 20 Tf (3. Packages \(CAD + HST\)) Tj ET
+BT 1 0 0 1 86 685.00 Tm /F1 10.5 Tf (- Portrait - 90 minutes, 1 location, 25 frames - from $450.) Tj ET
+BT 1 0 0 1 86 668.77 Tm /F1 10.5 Tf (- Family & Maternity - 2 hours, home or park, 40 frames - from $650.) Tj ET
+BT 1 0 0 1 86 652.55 Tm /F1 10.5 Tf (- Event - 4 hours, 200+ frames - from $1,200.) Tj ET
+BT 1 0 0 1 86 636.32 Tm /F1 10.5 Tf (- Wedding - 8 hours, 400+ frames - from $3,800.) Tj ET
+BT 1 0 0 1 86 620.10 Tm /F1 10.5 Tf (- Signature - full day, 800+ frames, reel - from $6,500.) Tj ET
+BT 1 0 0 1 72 603.87 Tm /F1 10.5 Tf (Add-ons: reel $400, album $600+, extra hour $250, destination by quote. 13% Ontario HST) Tj ET
+BT 1 0 0 1 72 588.65 Tm /F1 10.5 Tf (applies \(CRA #782910482RT0001\).) Tj ET
+BT 1 0 0 1 72 571.42 Tm /F2 20 Tf (4. The Automated Journey) Tj ET
+BT 1 0 0 1 72 536.42 Tm /F1 10.5 Tf (Visitor lands - Haffu greets - intent profiled - availability checked - booking confirmed) Tj ET
+BT 1 0 0 1 72 521.20 Tm /F1 10.5 Tf (- contract sent - retainer collected \(Stripe\) - calendar blocked - pre-shoot kit) Tj ET
+BT 1 0 0 1 72 505.97 Tm /F1 10.5 Tf (delivered - the shoot - sneak peek within 48 hours - gallery in 3-4 weeks - print store -) Tj ET
+BT 1 0 0 1 72 490.75 Tm /F1 10.5 Tf (review request - anniversary rebook.) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 1919 >>
+stream
+BT 1 0 0 1 72 720.00 Tm /F2 20 Tf (5. Tool Engine Suite \(30 HAFFU Auto-Service Tools\)) Tj ET
+BT 1 0 0 1 72 685.00 Tm /F1 10.5 Tf (Every tool compiles to 1,000+ production lines from versioned submodules, carries a) Tj ET
+BT 1 0 0 1 72 669.77 Tm /F1 10.5 Tf (twelve-point self-diagnostic, boundary tests, and a fifty-item batch simulation. Headline) Tj ET
+BT 1 0 0 1 72 654.55 Tm /F1 10.5 Tf (engines:) Tj ET
+BT 1 0 0 1 86 637.32 Tm /F1 10.5 Tf (- Mini Session Filler - seasonal pop-up catalog, slot scheduler, HST ledger, VIP) Tj ET
+BT 1 0 0 1 86 622.10 Tm /F1 10.5 Tf (launch runbooks \(1,033 lines\).) Tj ET
+BT 1 0 0 1 86 605.87 Tm /F1 10.5 Tf (- Preset Seller - Lightroom desktop/mobile presets, XMP/DNG packaging, camera) Tj ET
+BT 1 0 0 1 86 590.65 Tm /F1 10.5 Tf (calibration, instant licensing \(1,107 lines\).) Tj ET
+BT 1 0 0 1 86 574.42 Tm /F1 10.5 Tf (- Background Remover - studio matting, high-key cutouts, backdrop replacement, 300 DPI) Tj ET
+BT 1 0 0 1 86 559.20 Tm /F1 10.5 Tf (print preflight \(1,102 lines\).) Tj ET
+BT 1 0 0 1 86 542.97 Tm /F1 10.5 Tf (- Mode Manager - five operational modes, guarded state machine, SLA charter and weekly) Tj ET
+BT 1 0 0 1 86 527.75 Tm /F1 10.5 Tf (reviews \(1,022 lines\).) Tj ET
+BT 1 0 0 1 86 511.52 Tm /F1 10.5 Tf (- Plus: contract generator, smart upsell, gallery arranger, wall-art visualizer,) Tj ET
+BT 1 0 0 1 86 496.30 Tm /F1 10.5 Tf (vendor matchmaker, seasonal predictor, and 21 more.) Tj ET
+BT 1 0 0 1 72 480.07 Tm /F2 20 Tf (6. Tech Stack) Tj ET
+BT 1 0 0 1 86 445.07 Tm /F1 10.5 Tf (- Frontend: HTML5, CSS3, vanilla JS, Three.js, GSAP, Lenis.) Tj ET
+BT 1 0 0 1 86 428.85 Tm /F1 10.5 Tf (- Backend: Node.js, Express; AI: Vertex AI; Database: Firestore; Payments: Stripe.) Tj ET
+BT 1 0 0 1 86 412.62 Tm /F1 10.5 Tf (- Calendar: Google Calendar API; Email: Resend; Hosting: Vercel + Cloud Run; Tests:) Tj ET
+BT 1 0 0 1 86 397.40 Tm /F1 10.5 Tf (Jest.) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 1316 >>
+stream
+BT 1 0 0 1 72 720.00 Tm /F2 20 Tf (7. KPIs) Tj ET
+BT 1 0 0 1 86 685.00 Tm /F1 10.5 Tf (- Under 60 seconds first response; 35% lead-to-booking.) Tj ET
+BT 1 0 0 1 86 668.77 Tm /F1 10.5 Tf (- 20 weddings per year; 60% album attach; 40% automated revenue by 2027.) Tj ET
+BT 1 0 0 1 86 652.55 Tm /F1 10.5 Tf (- 3-4 week delivery; 5-star Google rating; 40% repeat clients.) Tj ET
+BT 1 0 0 1 72 636.32 Tm /F2 20 Tf (8. Verification & Deployment Protocol) Tj ET
+BT 1 0 0 1 86 601.32 Tm /F1 10.5 Tf (- Phase A - full syntax sweep of src/ and scripts/, tool diagnostics, live server) Tj ET
+BT 1 0 0 1 86 586.10 Tm /F1 10.5 Tf (boot, 20+ endpoint 200-OK sweep, checkout and booking validation.) Tj ET
+BT 1 0 0 1 86 569.87 Tm /F1 10.5 Tf (- Phase B - responsive audit: desktop \(>1024 px, >1600 px\), tablet \(768-1024 px\),) Tj ET
+BT 1 0 0 1 86 554.65 Tm /F1 10.5 Tf (mobile \(<768 px, <480 px\): hamburger drawer, stacked cards, sticky CTA, clamp\(\)) Tj ET
+BT 1 0 0 1 86 539.42 Tm /F1 10.5 Tf (scaling, touch targets.) Tj ET
+BT 1 0 0 1 86 523.20 Tm /F1 10.5 Tf (- Phase C - git commit with detailed message, then push origin main to) Tj ET
+BT 1 0 0 1 86 507.97 Tm /F1 10.5 Tf (github.com/waliahmad-blip/hafsanoreen.) Tj ET
+BT 1 0 0 1 72 479.75 Tm /F1 10.5 Tf (The studio is in Haffu's hands. The blueprint is complete.) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 15 0 R >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000149 00000 n 
+0000000246 00000 n 
+0000000348 00000 n 
+0000001422 00000 n 
+0000001558 00000 n 
+0000004113 00000 n 
+0000004249 00000 n 
+0000005636 00000 n 
+0000005773 00000 n 
+0000007146 00000 n 
+0000007284 00000 n 
+0000009256 00000 n 
+0000009394 00000 n 
+0000010763 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+10901
+%%EOF

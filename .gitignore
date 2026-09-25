@@ -1,0 +1,56 @@
+# ─── Dependencies ─────────────────────
+node_modules/
+package-lock.json
+
+# ─── Environment & Secrets ────────────
+.env
+*.env
+!*.env.example
+service-account.json
+calendar-credentials.json
+*-credentials.json
+*.pem
+*.key
+
+# ─── Build Output ─────────────────────
+dist/
+build/
+.next/
+out/
+
+# ─── OS Files ─────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# ─── IDE ──────────────────────────────
+.vscode/
+.idea/
+*.sublime-*
+
+# ─── Logs ─────────────────────────────
+*.log
+npm-debug.log*
+
+# ─── Uploads & User Content ───────────
+public/assets/images/hero/*
+public/assets/images/gallery/**/*
+public/assets/images/about/*
+!public/assets/images/hero/.gitkeep
+!public/assets/images/gallery/**/.gitkeep
+!public/assets/images/about/.gitkeep
+
+# ─── Cache ────────────────────────────
+.cache/
+.turbo/
+tmp/
+temp/
+
+# ─── Testing ──────────────────────────
+coverage/
+.nyc_output/
+
+# ─── Firestore Emulator ───────────────
+firestore-debug.log
+ui-debug.log

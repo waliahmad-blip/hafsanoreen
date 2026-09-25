@@ -1,0 +1,42 @@
+{
+  "name": "hafsa-noreen-photography",
+  "version": "1.0.0",
+  "description": "Hafsa Noreen Photography — Cinematic natural-light photographer in Oakville, Burlington, Milton & Halton",
+  "private": true,
+  "scripts": {
+    "dev": "node src/server.js",
+    "start": "node src/server.js",
+    "test": "jest --coverage",
+    "lint": "eslint src/ public/js/",
+    "seed": "node scripts/seed-db.js",
+    "deploy": "bash scripts/deploy.sh",
+    "build:web": "cd web && npm run build",
+    "build:all": "npm run build:web && node scripts/verify-all-syntax.js"
+  },
+  "dependencies": {
+    "@google-cloud/aiplatform": "^7.4.0",
+    "@google-cloud/vertexai": "^1.12.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.1.5",
+    "firebase-admin": "^12.0.0",
+    "googleapis": "^128.0.0",
+    "helmet": "^7.1.0",
+    "morgan": "^1.10.0",
+    "resend": "^3.2.0",
+    "stripe": "^14.0.0",
+    "uuid": "^9.0.0",
+    "winston": "^3.11.0",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.2",
+    "sharp": "^0.33.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

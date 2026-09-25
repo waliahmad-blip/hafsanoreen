@@ -1,0 +1,58 @@
+{
+  "about": {
+    "title": "About Hafsa — Cinematic Natural-Light Photographer in Halton",
+    "description": "Meet Hafsa Noreen: Oakville-based cinematic natural-light photographer serving Oakville, Burlington, Milton & Halton. Vogue & WedLuxe featured. 5.0 stars from 47 commissions.",
+    "hero": { "tag": "The Founder", "title": "Hafsa Noreen", "lede": "Rooted in Oakville and serving every corner of Halton, I chase the kind of light that makes ordinary moments look like cinema.", "image": "/images/hafsa-portrait.jpg" },
+    "sections": [
+      { "type": "story", "label": "My Philosophy", "title": "Art Is Not What You See, But What You Make Others See", "paras": [
+        "I photograph the way films are made: with patience, with intention, and with an obsession for the exact second the light turns golden. Nothing stiff, nothing staged — just the real choreography of your day, caught mid-breath.",
+        "My studio sits at 3404 Millicent Avenue in Oakville, but my heart shoots across the limestone bluffs of Kelso, the windswept cedars of Rattlesnake Point, the distillery cobbles of Toronto, and every backyard where a family gathers unscripted."
+      ]},
+      { "type": "grid", "label": "The Craft", "title": "How The Atelier Works", "items": [
+        { "title": "Natural Light Only", "body": "No flash walls, no stiff studio backdrops. I hunt window light, golden hour, and open shade — the light your memories actually lived in." },
+        { "title": "Film-Inspired Colour", "body": "Every gallery is hand-graded in the atelier palette: warm ivory skin tones, deep archival blacks, and the faintest film grain." },
+        { "title": "Haffu, My Creative Intelligence", "body": "My AI studio manager answers inquiries in seconds, books discovery calls, and protects my editing hours — so my full attention stays on your story." },
+        { "title": "Editorial Background", "body": "Featured by Vogue and WedLuxe; trusted for 47 commissions with a 5.0-star average across Google and formal reviews." },
+        { "title": "Heirloom Delivery", "body": "Sneak peek within 48 hours, full gallery in 3–4 weeks, and museum-grade print options that outlive us all." },
+        { "title": "Local To Halton", "body": "Oakville, Burlington, Milton, Halton Hills — and destination commissions across Niagara, Muskoka, and the GTA West." }
+      ]}
+    ],
+    "cta": { "title": "Let's plan your film.", "lede": "Tell me your date and your story — I reply personally, fast.", "primary": ["/contact", "Begin Your Inquiry"], "secondary": ["/portfolio", "See The Work"] }
+  },
+  "story": {
+    "title": "Our Story — How the Atelier Began",
+    "description": "From a first borrowed camera to a Vogue-featured Oakville atelier — the story of Hafsa Noreen Photography.",
+    "hero": { "tag": "Our Story", "title": "A Camera, A Corridor of Light", "lede": "Every atelier starts with one honest frame. Here is ours.", "image": "/images/corridor/corridor-2.jpg" },
+    "sections": [
+      { "type": "story", "label": "Chapter One", "title": "It Started With Borrowed Glass", "paras": [
+        "The first wedding I ever shot was on a borrowed camera with a dying battery and a prayer. The couple is still married, the photographs still hang in their hallway, and I have never forgotten what that day taught me: the images that last are the ones nobody posed.",
+        "What began as weekend sessions for friends in Oakville grew — family by family, wedding by wedding — into an atelier trusted across Halton for cinematic, natural-light storytelling."
+      ]},
+      { "type": "story", "label": "Chapter Two", "title": "The Atelier Years", "paras": [
+        "Today the studio pairs old-world craft with new-world intelligence. I still grade every frame by hand; Haffu — my Creative Intelligence — keeps the calendar, the contracts, and the questions moving so that nothing about working with us ever feels like paperwork.",
+        "Vogue and WedLuxe features followed. So did 47 five-star commissions. But the metric I watch closest is simpler: how many clients come back for the next chapter — maternity after wedding, anniversary after maternity. Most do."
+      ]}
+    ],
+    "cta": { "title": "Write the next chapter with us.", "lede": "Your story deserves the golden-hour treatment.", "primary": ["/booking", "Reserve Your Date"], "secondary": ["/about", "Meet Hafsa"] }
+  },
+  "weddings": {
+    "title": "Wedding Photographer — Oakville, Burlington, Milton & Halton",
+    "description": "Cinematic wedding photography across Halton & the GTA. 8 hours of coverage, 400+ editorial film frames, 48h sneak peek. From $3,800 CAD + HST.",
+    "hero": { "tag": "Weddings", "title": "Your Day, Shot Like a Film", "lede": "Unscripted vows, kinetic joy, quiet in-between glances — preserved in golden natural light and heirloom film colour.", "image": "/images/corridor/corridor-1.jpg" },
+    "sections": [
+      { "type": "story", "label": "The Approach", "title": "Quiet Where It Matters, Bold Where It Counts", "paras": [
+        "During your ceremony I am nearly invisible — a long lens, a held breath. During your golden-hour portraits I am a director: gentle prompts, real movement, and the patience to wait for the exact frame.",
+        "Every wedding receives 8 hours of comprehensive coverage, 400+ hand-graded frames, a planning consultation, and a sneak-peek gallery within 48 hours so you can relive it while the confetti is still in your shoes."
+      ]},
+      { "type": "grid", "label": "What's Included", "title": "The Wedding Heirloom — $3,800 CAD", "items": [
+        { "title": "8 Hours, Two Angles", "body": "Comprehensive coverage from preparations to send-off, with second-shooter options for the Signature commission." },
+        { "title": "400+ Editorial Frames", "body": "Every gallery image hand-graded in the atelier film palette — high-resolution, print-ready, yours forever." },
+        { "title": "48-Hour Sneak Peek", "body": "A curated teaser gallery while the celebration is still fresh enough to text everyone about." },
+        { "title": "Planning Consultation", "body": "Timeline design, light-mapping for your venue, and a family-photo game plan that never feels rushed." },
+        { "title": "Venue Expertise", "body": "Gairloch Gardens, Kelso, Rattlesnake Point, Paletta Mansion, Distillery District — we know the light by heart." },
+        { "title": "Heirloom Add-Ons", "body": "Fine-art layflat albums, 4K cinematic reels, and museum wall art to turn the day into a family archive." }
+      ]}
+    ],
+    "cta": { "title": "Hold your wedding date.", "lede": "Weekend dates book 6–12 months ahead. A $500 retainer locks yours.", "primary": ["/booking", "Reserve Your Date"], "secondary": ["/portfolio", "View Wedding Films"] }
+  }
+}
