@@ -11,7 +11,8 @@
     "seed": "node scripts/seed-db.js",
     "deploy": "bash scripts/deploy.sh",
     "build:web": "cd web && npm run build",
-    "build:all": "npm run build:web && node scripts/verify-all-syntax.js"
+    "build:all": "npm run build:web && node scripts/audit-hooks.js && node scripts/verify-all-syntax.js",
+    "audit": "node scripts/audit-hooks.js"
   },
   "dependencies": {
     "@google-cloud/aiplatform": "^7.4.0",

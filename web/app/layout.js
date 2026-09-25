@@ -53,7 +53,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" className={`${cormorant.variable} ${lato.variable}`}>
+    <html lang="en" data-scroll-behavior="smooth" className={`${cormorant.variable} ${lato.variable}`}>
       <body className="antialiased">
         <a href="#main-content" className="skip-link">Skip to main content</a>
         <SmoothScroll />
